@@ -133,11 +133,21 @@ TBC
 
 ## Design and user experience choices
 
+### Look and feel
+
+It needs to keep styling in line with Idena homepage
+
 ### Content creation
+
+TBC
 
 #### Guides
 
+TBC
+
 #### Marketing
+
+TBC
 
 ## Build choices
 
@@ -186,3 +196,5 @@ Benefits and downsides of idea submission and maintenance through git
 - Github, gitlab etc. are not decentralised - Could Idena network host the repository?
 
 ## Maintenance
+
+TBC
