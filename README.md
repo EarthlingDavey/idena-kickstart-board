@@ -13,11 +13,12 @@ I am using the Prettier plugin with default settings, for consistency please con
 
 # Idena Kickstarter
 
-Basically, it is a website to enable finding of community projects.
+Basically, it is a website to enable funding of community projects.
 
 The community will be able to:
 
 - discover
+- share (?)
 - discuss (?)
 - vote on
 - donate towards in \$DNA
@@ -35,11 +36,32 @@ See the official release [Community-based co-funding](https://medium.com/idena/c
 
 ### Idena community for voting
 
-### Developers looking for funding
+The Idena community are what makes Idena what it is. The website is being built for them. I assume they wil be the biggest user group by population - It will be used by them the most.
+
+We are asking for their time, effort and money and during the project they should be valued accordingly.
+
+### Developers/makers/people looking for funding
+
+This group of people will help the network grow quickly. We are asking developers to take a small risk by spending time on writing a proposal, which could ultimately be denied funding.
+
+Developers will value (IMO):
+
+- a quick and easy process for application
+- easy way to communicate ideas, text and images
+- a place for organised discussion
+- feedback from voters, especially for 'no' votes
+- support from admin on using the website (throughout the funding process)
+- a place to show their skill set - maybe a profile template to complete
+
+It should be clear which developers have a good reputation, as a poorly executed project could damage the reputation of the project or Idena as a whole.
 
 ### Potential new community developers
 
+The website could be one of the first impressions for this user group. They will likely appreciate a well made website using solid tech.
+
 ### Potential new community members (non-developers)
+
+Likewise, new community members will visit the site. It may be linked from the Idena homepage. First impressions should be a priority for this group of users.
 
 ### Admin / website management
 
