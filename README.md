@@ -13,7 +13,23 @@ I am using the Prettier plugin with default settings, for consistency please con
 
 # Idena Kickstarter
 
-What is it, an overview.
+Basically, it is a website to enable finding of community projects.
+
+The community will be able to:
+
+- discover
+- discuss (?)
+- vote on
+- donate towards in \$DNA
+- monitor progress
+
+The most part of the site will have similar function to the well known kickstarter.com
+
+The main difference to kickstarter.com will be voting. Community members will be encouraged to vote on projects. This voting will influence the core Idena foundation co-funding.
+
+Due to the nature of Idena network, 1 vote will be one person. Many votes of small amounts of $DNA will equate to more co-funding, compared to fewer votes of lots of $DNA.
+
+See the official release [Community-based co-funding](https://medium.com/idena/community-based-co-funding-b6b4fc79ddff) for background reading, including rues of funding.
 
 ## Who will be using it?
 
