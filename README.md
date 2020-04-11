@@ -32,6 +32,8 @@ Due to the nature of Idena network, 1 vote will be one person. Many votes of sma
 
 See the official release [Community-based co-funding](https://medium.com/idena/community-based-co-funding-b6b4fc79ddff) for background reading, including rues of funding.
 
+We can also accommodate voting for other questions. for example the Idena core could ask the community a question with regards to a new feature. This would not be for funding, and votes could be cast by sending 0.0000000000000001 DNA
+
 ## Who will be using it, and what are the considerations?
 
 ### Idena community for voting
@@ -85,7 +87,7 @@ From an end-user point of view (a non developer):
 1. Display clearly how voting has been cast on each project
 1. Display current co-funding amount based on the Idena foundation formula
 1. After donations, users should be kept in the loop of updates (email?)
-1. To encourage community, progress updates and case studies of completed projects
+1. Milestones and(?) case studies of completed projects
 1. Easy to share content
 
 For a developer
@@ -97,7 +99,7 @@ For a developer
 1. Encourage chatting through project ideas in Discord chat?
 1. Monitoring of funding progress
 1. A way to receive funding
-1. A way to provide updates of a project once it's started
+1. A way to provide milestone updates of a project once it's started
 1. Support from admin or other community developers, e.g. with git
 
 For potential new community and developers
@@ -109,6 +111,7 @@ For potential new community and developers
 
 For admin
 
+1. Some degree of moderation
 1. See an overview of all projects
 1. When projects are funded, communicate with Idena foundation and transfer funds to developer
 1. For underfunded projects, issue refunds
@@ -116,14 +119,70 @@ For admin
 
 ## When is the target date for delivery?
 
+TBC
+
 ## Other considerations
 
+?
+
 ## Analysis of CCS - Monero's equivalent voting/funding website
+
+TBC
 
 ## Project management choices
 
 ## Design and user experience choices
 
+### Content creation
+
+#### Guides
+
+#### Marketing
+
 ## Build choices
+
+The build will be split into parts. These are all open for discussion.
+
+- Frontend
+- Backend
+  - Data except projects
+  - Admin
+- Projects content
+
+### Frontend
+
+Proposed to build frontend in react
+
+- We have (at least) 2 react developers in the community
+- Desktop wallet is built with react (with next.js) - good continuity
+- Can take data from API, good for fetching backend data and project content
+- Maintainable as it is fairly popular
+
+### Backend
+
+php and mysql
+
+- We have an experienced community developers with this skill-set
+- tried and tested combo for backend
+- Maintainable as it is very popular
+
+#### Admin
+
+For Admin a python refund script will be built
+
+- Secure connection to backend - likely ssh
+
+Admin wil also need to create and take care of cold wallets for each project. Will a script help with this?
+
+### Projects content
+
+Benefits and downsides of idea submission and maintenance through git
+
+- tried and tested [monero ccs](https://ccs.getmonero.org/how-to-ccs/)
+- transparent and traceable
+- Git takes the hassle of submission, users and account etc for you
+- potential for posting issues, translation etc easily on git
+
+- Github, gitlab etc. are not decentralised - Could Idena network host the repository?
 
 ## Maintenance
