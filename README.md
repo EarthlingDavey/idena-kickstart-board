@@ -32,7 +32,7 @@ Due to the nature of Idena network, 1 vote will be one person. Many votes of sma
 
 See the official release [Community-based co-funding](https://medium.com/idena/community-based-co-funding-b6b4fc79ddff) for background reading, including rues of funding.
 
-## Who will be using it?
+## Who will be using it, and what are the considerations?
 
 ### Idena community for voting
 
@@ -65,9 +65,54 @@ Likewise, new community members will visit the site. It may be linked from the I
 
 ### Admin / website management
 
-## Why it is important?
+This group don't need a great design for user interface. They do however need something that is:
 
-## What functions does it have to do?
+- easy to use
+- well documented
+- scalable - quick to use even if there are many proposals
+- 100% reliable
+
+## What specific functions does it have to do?
+
+From an end-user point of view (a non developer):
+
+1. Explain itself. What is the site, who is it for and how to use it?
+1. Present projects for discovery
+1. Detail each project
+1. Each project will have a unique Idena wallet address
+1. Donations to these addresses will count as votes
+1. Confirmation of voting
+1. Display clearly how voting has been cast on each project
+1. Display current co-funding amount based on the Idena foundation formula
+1. After donations, users should be kept in the loop of updates (email?)
+1. To encourage community, progress updates and case studies of completed projects
+1. Easy to share content
+
+For a developer
+
+1. Explain the process of how to ask for money
+1. Explain the value of developers in Idena
+1. Show examples of other projects
+1. Try and communicate the potential of Idena
+1. Encourage chatting through project ideas in Discord chat?
+1. Monitoring of funding progress
+1. A way to receive funding
+1. A way to provide updates of a project once it's started
+1. Support from admin or other community developers, e.g. with git
+
+For potential new community and developers
+
+1. Easily see what the Kickstarter project is about
+1. Browse, filter(?), search(?)
+1. Share
+1. Join the community
+
+For admin
+
+1. See an overview of all projects
+1. When projects are funded, communicate with Idena foundation and transfer funds to developer
+1. For underfunded projects, issue refunds
+1. Share & push (email) updates for Kickstarter in general or specific projects
 
 ## When is the target date for delivery?
 
