@@ -59,7 +59,9 @@ Needed for the project.
 - Store other info like people who write proposal
 
 The official Idena API will be used (to start with) to get data regarding votes/donations
+
 I will also use the backup .org domain as a fallback in case idena.io domain is down.
+
 There is also potential to add a 3rd party fallback.
 
 ## Backend
@@ -74,5 +76,7 @@ A node.js backend
 ## Developer experience
 
 Using docker during development. Development is the same across Win/OSX/Linux
+
 Fully documented code. Easy to maintain.
+
 Using separate git repositories for frontend, backend, proposals. To keep things organised.
