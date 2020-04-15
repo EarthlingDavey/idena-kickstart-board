@@ -6,7 +6,7 @@ I would like to take the same approach of human-centered design to do user exper
 
 In the interest of transparency, I am asking for 135 USD / day (my reduced freelance rate) for the work being done for Idena project. It will take around 6-8 days of work part-time resulting in 22-24 hours of my time going into the project. 
 
-##What methodology would I use? 
+## What methodology would I use? 
 
 ### 1. UI design
 Platform of choice: [Sketch](https://www.sketch.com/) & Figma
